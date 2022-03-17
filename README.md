@@ -51,6 +51,9 @@ Wykład
 3. Projekt
 
   3.1 sprzęt i API
+
+  ![lego clock](img/clock.jpg)
+  
   3.2 pierwsza klasa (pozycja absolutna)
   3.3 użycie klasy
   3.4 klasa zegar
